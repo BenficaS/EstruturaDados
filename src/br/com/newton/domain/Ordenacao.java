@@ -1,3 +1,5 @@
+package br.com.newton.domain;
+
 import java.util.Scanner;
 
 public class Ordenacao {
